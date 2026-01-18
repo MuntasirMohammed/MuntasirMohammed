@@ -1,8 +1,12 @@
-<h1>Hi, I'm Muntasir! <br/><a href="https://github.com/MuntasirMohammed">Programmer</a>, <a href="https://www.linkedin.com/in/muntasirmohammed/"> AWS Solutions Architect </a>, <a> Full Stack Web Developer </a></h1>
+<h1>Hi, I'm Muntasir! <br/><a href="https://github.com/MuntasirMohammed">Computer Engineer</a>, <a href="https://www.linkedin.com/in/muntasirmohammed/"> AWS SAA Certified </a><a> </a></h1>
 
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Portfolio Projects:</h2>
 
+- <b>Multi-Tier Web Application (Vagrant, Tomcat)</b>
+  - [Web Application](https://github.com/MuntasirMohammed/CICD-Terraform)
+- <b>Multi-Platform Terraform CI/CD Pipeline. (Terraform, Gitlabs)</b>
+  - [CICD Pipeline](https://github.com/MuntasirMohammed/CICD-Terraform)
 - <b>React Quiz App. (Amplify, Cognito)</b>
   - [React Quiz App](https://github.com/MuntasirMohammed/React-Quiz-App)
 - <b>RideEase - Serverless Ride Sharing App.(Amplify, Cognito, Lambda, DynamoDB, API Gateway)</b>
@@ -15,12 +19,13 @@
 
 <h2>📜 Certifications:</h2>
 
-- [AWS Certified Cloud Practitioner (CLF-CO2)](https://www.credly.com/badges/0b58b961-174e-4e1b-8fca-7e5d4cbfaae9/public_url) 
+- [AWS Certified Cloud Practitioner (CLF-CO2)](https://www.credly.com/badges/0b58b961-174e-4e1b-8fca-7e5d4cbfaae9/public_url)
+- [AWS Certified Solutions Architect - Associate (SAA-CO3)](https://www.credly.com/badges/d88e749e-4a30-4d33-aae1-f57035d6104d/public_url) 
 
 
 <h2>📲 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Muntasir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]:https://www.linkedin.com/in/muntasirmohammed/
 
